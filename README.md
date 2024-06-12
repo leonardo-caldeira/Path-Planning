@@ -8,8 +8,8 @@ Com isso, tendo o grid de possibilidade de posições seguras para robô e suas 
 
 # Implementação do problema
 
-## 2. Implementação do problema
-
 Para tornar possível o emprego dos algoritmos de pesquisa, o espaço físico de uma fábrica foi mapeado em uma grade discretizada com coordenadas cartesianas. A grade contém dados sobre as localizações dos obstáculos na rota e mantém um registro das posições onde o movimento do robô é autorizado. Cada nó presente nessa grade contém informações sobre sua coordenada, o custo da rota atual e qual é o nó que o precede.
 
 Para esse problema foram utilizados Busca não informada, Dijkstra e A*.
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/drive/1e3nTZssTSgxLTznmV6_kuf510U-95B3g?authuser=1#scrollTo=w1I9bTcg_DOG)
